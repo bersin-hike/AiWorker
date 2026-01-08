@@ -1,0 +1,8 @@
+redis
+python-dotenv
+google-generativeai
+pinecone-client
+pymupdf   
+requests
+aiohttp           
+numpy 
